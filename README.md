@@ -24,4 +24,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirawat.c@kkumail.com)
 
 ## 📄 Note:
-This GitHub repository is solely for showcasing my work and submitting assignments to my professors. It is not intended for commercial use or profit-seeking purposes; it is for educational purposes only.
+This GitHub repository is solely for showcasing my work and submitting assignments to my professors. 
+It is not intended for commercial use or profit-seeking purposes; it is for educational purposes only.
