@@ -22,3 +22,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088739476644) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/explosion_47n/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirawat.c@kkumail.com)
+
+## 📄 Note:
+This GitHub repository is solely for showcasing my work and submitting assignments to my professors. It is not intended for commercial use or profit-seeking purposes; it is for educational purposes only.
