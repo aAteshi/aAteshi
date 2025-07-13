@@ -15,13 +15,19 @@
 </div>
 
 ## 🧑‍💻 เกี่ยวกับผม  
+
 💻 **ความถนัด:** 
+
 <div>การเขียนว็บไซต์ด้วย HTML, CSS และ JavaScript</div>
 🎨 **ความสนใจ:**
+
 <div>Frontend Development, UI/UX Design, Web Development</div>
+
 📚 **กำลังเรียนรู้:**
+
 <div>JavaScript Frameworks, Design Tools, และเทคโนโลยีใหม่ๆ </div>
 🤝 **เปิดรับโอกาส:**
+
 <div>การทำงานร่วมกันในโปรเจกต์ต่างๆ และการเรียนรู้สิ่งใหม่</div>
 
 🔧เทคโนโลยีที่ถนัด:
