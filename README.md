@@ -14,10 +14,14 @@
   />
 </div>
 
---- ## 🧑‍💻 เกี่ยวกับผม - 💻 **ความถนัด:** การออกแบบเว็บไซต์ด้วย HTML, CSS และ
-JavaScript ยังไม่ชำนาญครับ แต่กำลังฝึกฝนอย่างต่อเนื่อง - 🎨 **ความสนใจ:**
-Frontend Development, UI/UX Design, Web Development - 📚 **กำลังเรียนรู้:**
-JavaScript Frameworks, Design Tools, และเทคโนโลยีใหม่ๆ - 🤝 **เปิดรับโอกาส:**
+## 🧑‍💻 เกี่ยวกับผม  
+💻 **ความถนัด:** 
+การเขียนว็บไซต์ด้วย HTML, CSS และ JavaScript 
+🎨 **ความสนใจ:**
+Frontend Development, UI/UX Design, Web Development 
+📚 **กำลังเรียนรู้:**
+JavaScript Frameworks, Design Tools, และเทคโนโลยีใหม่ๆ  
+🤝 **เปิดรับโอกาส:**
 การทำงานร่วมกันในโปรเจกต์ต่างๆ และการเรียนรู้สิ่งใหม่ --- ## 🔧
 เทคโนโลยีที่ถนัด: ### 🌐 Web Development
 <div>
@@ -80,11 +84,11 @@ JavaScript Frameworks, Design Tools, และเทคโนโลยีให�
   />&nbsp;
 </div>
 
---- ## 🤝 ช่องทางติดต่อ:
+## 🤝 ช่องทางติดต่อ:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088739476644)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/explosion_47n/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirawat.c@kkumail.com)
---- ## 📄 หมายเหตุ **Note:** This GitHub repository is solely for showcasing my
+## 📄 หมายเหตุ **Note:** This GitHub repository is solely for showcasing my
 work and submitting assignments to my professors. It is not intended for
 commercial use or profit-seeking purposes; it is for educational purposes only.
 **หมายเหตุ:** GitHub repository
