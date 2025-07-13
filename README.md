@@ -14,10 +14,11 @@
   />
 </div>
 
-## 🧑‍💻 เกี่ยวกับผม 💻 **ความถนัด:** การเขียนว็บไซต์ด้วย HTML, CSS และ JavaScript
-🎨 **ความสนใจ:** Frontend Development, UI/UX Design, Web Development 📚
-**กำลังเรียนรู้:** JavaScript Frameworks, Design Tools, และเทคโนโลยีใหม่ๆ 🤝
-**เปิดรับโอกาส:** การทำงานร่วมกันในโปรเจกต์ต่างๆ และการเรียนรู้สิ่งใหม่
+## 🧑‍💻 เกี่ยวกับผม 
+<div>💻 **ความถนัด:** การเขียนว็บไซต์ด้วย HTML, CSS และ JavaScript</div>
+<div>🎨 **ความสนใจ:** Frontend Development, UI/UX Design, Web Development 📚</div>
+<div>**กำลังเรียนรู้:** JavaScript Frameworks, Design Tools, และเทคโนโลยีใหม่ๆ 🤝</div>
+<div>**เปิดรับโอกาส:** การทำงานร่วมกันในโปรเจกต์ต่างๆ และการเรียนรู้สิ่งใหม่</div>
 
 
 
