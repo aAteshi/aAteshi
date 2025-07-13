@@ -93,7 +93,7 @@ work and submitting assignments to my professors. It is not intended for
 commercial use or profit-seeking purposes; it is for educational purposes only.
 </div>
 <div>
-**หมายเหตุ:** GitHub repository
+## 📄 หมายเหตุ : GitHub repository
 นี้จัดทำขึ้นเพื่อแสดงผลงานและส่งการบ้านให้กับอาจารย์เท่านั้น
 ไม่ได้มีวัตถุประสงค์เพื่อการค้าหรือหาผลกำไร เป็นเพียงการศึกษาเท่านั้น
 </div>
